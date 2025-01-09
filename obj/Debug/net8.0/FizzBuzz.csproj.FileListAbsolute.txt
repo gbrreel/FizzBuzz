@@ -1,0 +1,10 @@
+/Users/GabrielGallo/Códigos/c#-basic/FizzBuzz/FizzBuzz/FizzBuzz/bin/Debug/net8.0/FizzBuzz
+/Users/GabrielGallo/Códigos/c#-basic/FizzBuzz/FizzBuzz/FizzBuzz/bin/Debug/net8.0/FizzBuzz.dll
+/Users/GabrielGallo/Códigos/c#-basic/FizzBuzz/FizzBuzz/FizzBuzz/bin/Debug/net8.0/FizzBuzz.pdb
+/Users/GabrielGallo/Códigos/c#-basic/FizzBuzz/FizzBuzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GabrielGallo/Códigos/c#-basic/FizzBuzz/FizzBuzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.AssemblyInfoInputs.cache
+/Users/GabrielGallo/Códigos/c#-basic/FizzBuzz/FizzBuzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.AssemblyInfo.cs
+/Users/GabrielGallo/Códigos/c#-basic/FizzBuzz/FizzBuzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/GabrielGallo/Códigos/c#-basic/FizzBuzz/FizzBuzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.dll
+/Users/GabrielGallo/Códigos/c#-basic/FizzBuzz/FizzBuzz/FizzBuzz/obj/Debug/net8.0/refint/FizzBuzz.dll
+/Users/GabrielGallo/Códigos/c#-basic/FizzBuzz/FizzBuzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.pdb
