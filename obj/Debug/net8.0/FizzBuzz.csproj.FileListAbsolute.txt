@@ -8,3 +8,4 @@
 /Users/GabrielGallo/Códigos/c#-basic/FizzBuzz/FizzBuzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.dll
 /Users/GabrielGallo/Códigos/c#-basic/FizzBuzz/FizzBuzz/FizzBuzz/obj/Debug/net8.0/refint/FizzBuzz.dll
 /Users/GabrielGallo/Códigos/c#-basic/FizzBuzz/FizzBuzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.pdb
+/Users/GabrielGallo/Códigos/c#-basic/FizzBuzz/FizzBuzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.sourcelink.json
